@@ -1,1 +1,5 @@
-g
+[
+{ "url":"apiezo1.wav","type":"audio","bank":"100","n":0},
+{ "url":"sin_nombre02.wav","type":"audio","bank":"101","n":0},
+{ "url":"sin_nombre02.wav","type":"audio","bank":"102","n":0}
+]
